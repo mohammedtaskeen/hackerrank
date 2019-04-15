@@ -1,4 +1,4 @@
-package com.hackerrank.arrays.src;
+package com.hackerrank.arrays;
 
 import java.io.IOException;
 import java.util.Scanner;
