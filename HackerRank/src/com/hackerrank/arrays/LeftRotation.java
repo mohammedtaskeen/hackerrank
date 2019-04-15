@@ -3,8 +3,17 @@ package com.hackerrank.arrays;
 import java.io.IOException;
 import java.util.Scanner;
 
+// Sample Input
+// 5 4
+// 1 2 3 4 5
+// 
+// Sample Input
+// 5 1 2 3 4
+
+
 public class LeftRotation {
 
+	
 	static int[] rotLeft(int[] a, int d) {
         int[] newA = new int[a.length];
         int newAIndex=0;
