@@ -3,12 +3,12 @@ package com.hackerrank.arrays;
 import java.io.IOException;
 import java.util.Scanner;
 
-// Sample Input
-// 5 4
-// 1 2 3 4 5
-// 
-// Sample Input
-// 5 1 2 3 4
+	// Sample Input
+	// 5 4
+	// 1 2 3 4 5
+	// 
+	// Sample Output
+	// 5 1 2 3 4
 
 
 public class LeftRotation {

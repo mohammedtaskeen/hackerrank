@@ -7,6 +7,13 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
 
+	// Sample Input 1
+	// 9
+	// 10 20 20 10 10 30 50 10 20
+	// 
+	// Sample Output
+	// 3
+
 public class SockMerchant {
 
     // Complete the sockMerchant function below.
